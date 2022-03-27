@@ -7,12 +7,13 @@ This document expects that you have a working git and github environment. Settin
 
 ### git clone
 ```
-cd <working space>
+cd < working space >
 git clone https://github.com/zeroichiio/git-template.git
 ```
-result: <working space> **git-timeplace**
+result: < working space > **git-template**
 
-- rename the folder *git-template to <project name>
+
+- rename the folder **git-template** to < **project name** >
 
 ### .git/config additions
 
